@@ -1,6 +1,6 @@
 Menu:
-  "&File":
-    value: "&File"
+  "&Dosiero":
+    value: "&Dosiero"
     submenu:
       "New &Window":
         value: "New &Window"
