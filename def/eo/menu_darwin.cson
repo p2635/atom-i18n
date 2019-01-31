@@ -3,11 +3,11 @@ Menu:
     value: "Atom"
     submenu:
       "About Atom":
-        value: "About Atom"
+        value: "Pri Atom"
       "View License":
         value: "View License"
       "Check for Update":
-        value: "Check for Update"
+        value: "Kontroli ĝisdatigon"
       "Preferences…":
         value: "Preferences..."
       "Config…":
@@ -31,7 +31,7 @@ Menu:
       Quit:
         value: "Quit"
   File:
-    value: "File"
+    value: "Dosiero"
     submenu:
       "New Window":
         value: "New Window"
@@ -63,7 +63,7 @@ Menu:
       "Close All Tabs":
         value: "Close All Tabs"
   Edit:
-    value: "Edit"
+    value: "Redakti"
     submenu:
       Undo:
         value: "Undo"
@@ -173,7 +173,7 @@ Menu:
       "Select Grammar":
         value: "Select Grammar"
   View:
-    value: "View"
+    value: "Vido"
     submenu:
       "Toggle Full Screen":
         value: "Toggle Full Screen"
@@ -228,7 +228,7 @@ Menu:
       "Toggle Tree View":
         value: "Toggle Tree View"
   Selection:
-    value: "Selection"
+    value: "Elekto"
     submenu:
       "Add Selection Above":
         value: "Add Selection Above"
@@ -259,7 +259,7 @@ Menu:
       "Select Inside Brackets":
         value: "Select Inside Brackets"
   Find:
-    value: "Find"
+    value: "Serĉi"
     submenu:
       "Find in Buffer":
         value: "Find in Buffer"
@@ -294,9 +294,9 @@ Menu:
       "Find Modified File":
         value: "Find Modified File"
   Packages:
-    value: "Packages"
+    value: "Pakoj"
   Window:
-    value: "Window"
+    value: "Fenestro"
     submenu:
       Minimize:
         value: "Minimize"
@@ -305,7 +305,7 @@ Menu:
       "Bring All to Front":
         value: "Bring All to Front"
   Help:
-    value: "Help"
+    value: "Helpo"
     submenu:
       "Terms of Use":
         value: "Terms of Use"
