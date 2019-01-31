@@ -3,38 +3,38 @@ Menu:
     value: "&Dosiero"
     submenu:
       "New &Window":
-        value: "New &Window"
+        value: "Nova &Fenestro"
       "&New File":
-        value: "&New File"
+        value: "&Nova Dosiero"
       "&Open File…":
-        value: "&Open File…"
+        value: "&Malfermi Dosieron…"
       "Open Folder…":
-        value: "Open Folder…"
+        value: "Malfermi Dosierujon…"
       "Add Project Folder…":
-        value: "Add Project Folder…"
+        value: "Aldoni Projektan Dosierujon…"
       "Reopen Project":
-        value: "Reopen Project"
+        value: "Remalfermi Projekton"
         submenu:
           "Clear Project History":
-            value: "Clear Project History"
+            value: "Vakigi Projektan Historion"
       "Reopen Last &Item":
-        value: "Reopen Last &Item"
+        value: "Remalfermi Lastan &Eron"
       "&Save":
-        value: "&Save"
+        value: "&Konservi"
       "Save &As…":
-        value: "Save &As…"
+        value: "Konservi &Kiel…"
       "Save A&ll":
-        value: "Save A&ll"
+        value: "Konservi Ĉ&ion"
       "&Close Tab":
-        value: "&Close Tab"
+        value: "&Fermi Langeton"
       "Close &Pane":
-        value: "Close &Pane"
+        value: "Fermi &Panelon"
       "Clos&e Window":
-        value: "Clos&e Window"
+        value: "Ferm&i Fenestron"
       "Quit":
-        value: "Quit"
+        value: "Eliri"
       "Close All Tabs":
-        value: "Close All Tabs"
+        value: "Fermi Ciujn Langetojn"
   "&Edit":
     value: "&Redakti"
     submenu:
@@ -286,20 +286,20 @@ Menu:
     value: "&Helpo"
     submenu:
       "View &Terms of Use":
-        value: "View &Terms of Use"
+        value: "Vidi &Kondiĉojn de Uzado"
       "View &License":
-        value: "View &License"
+        value: "Vidi &Permesilon"
       "&Documentation":
-        value: "&Documentation"
+        value: "&Dokumentado"
       "Frequently Asked Questions":
-        value: "Frequently Asked Questions"
+        value: "Oftaj Demandoj"
       "Community Discussions":
-        value: "Community Discussions"
+        value: "Komunumaj Diskutoj"
       "Report Issue":
-        value: "Report Issue"
+        value: "Raporti Atentindaĵon"
       "Search Issues":
-        value: "Search Issues"
+        value: "Serĉi Atentindaĵojn"
       "About Atom":
         value: "Pri Atom"
       "Welcome Guide":
-        value: "Welcome Guide"
+        value: "Bonveniga Gvidilo"
