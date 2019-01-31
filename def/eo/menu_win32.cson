@@ -1,6 +1,6 @@
 Menu:
   "&File":
-    value: "&File"
+    value: "&Dosiero"
     submenu:
       "New &Window":
         value: "New &Window"
@@ -48,7 +48,7 @@ Menu:
       "Close All Tabs":
         value: "Close All Tabs"
   "&Edit":
-    value: "&Edit"
+    value: "&Redakti"
     submenu:
       "&Undo":
         value: "&Undo"
@@ -164,7 +164,7 @@ Menu:
       "Select Grammar":
         value: "Select Grammar"
   "&View":
-    value: "&View"
+    value: "&Vido"
     submenu:
       "Toggle &Full Screen":
         value: "Toggle &Full Screen"
@@ -221,7 +221,7 @@ Menu:
       "Toggle Tree View":
         value: "Toggle Tree View"
   "&Selection":
-    value: "&Selection"
+    value: "&Elekto"
     submenu:
       "Add Selection &Above":
         value: "Add Selection &Above"
@@ -252,7 +252,7 @@ Menu:
       "Select Inside Brackets":
         value: "Select Inside Brackets"
   "F&ind":
-    value: "F&ind"
+    value: "S&erĉi"
     submenu:
       "Find in Buffer":
         value: "Find in Buffer"
@@ -287,9 +287,9 @@ Menu:
       "Find Modified File":
         value: "Find Modified File"
   "&Packages":
-    value: "&Packages"
+    value: "&Pakoj"
   "&Help":
-    value: "&Help"
+    value: "&Helpo"
     submenu:
       "View &Terms of Use":
         value: "View &Terms of Use"
